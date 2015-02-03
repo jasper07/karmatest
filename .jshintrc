@@ -1,0 +1,30 @@
+{
+    "strict":false,
+    "boss": true,
+    "browser": true,
+    "curly": true,
+    "devel": true,
+    "eqnull": true,
+    "browser": true,
+    "maxerr": 10000,
+    "trailing": true,
+    "quotmark": false,
+    "globals": {
+        "$": true,
+        "jQuery": true,
+        "model": true,
+        "sap": true,
+        "util": true,
+        "view": true,
+        "opaTest": true,
+        "module": true
+    },
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "unused": false,
+    "smarttabs": true
+}
