@@ -1,6 +1,6 @@
 {
-    "name": "openui5-sample-app",
-    "description": "Sample of an OpenUI5 app",
+    "name": "karmatest",
+    "description": "Openui5 TDG app running opa test in Karma",
     "private": true,
     "dependencies": {
         "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#~1.26.2",
